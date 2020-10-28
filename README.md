@@ -15,4 +15,6 @@ Where I got the idea: http://automatetheboringstuff.com/2e/chapter19/
 
 Also, check out this intro I made that, unfortunately could not be a part of this video due to the time limit: https://youtu.be/3JWnoz5UlH8
 
+---IMPORTANT TO RUN THE PROGRAM--- Make sure the python script, the font file, and all the images to be used are in the same folder!
+
 Raied Shoaib | Team 0x00
